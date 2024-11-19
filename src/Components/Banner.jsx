@@ -15,6 +15,7 @@ const Banner = () => {
                   <p className='text-[70.2px] font-poppins font-black leading-[87.8px] pl-[18.63px] rotate-2'>UNIQUE</p>
                 </div>
                 <p className='text-[70.2px] font-poppins font-black leading-[87.8px]  pl-[27px]'>CLOTHES.</p>
+                <p className='text-[23.14px] font-normal font-poppins text-[#191818] tracking-[-5%] mt-[29.25px] ml-[27px]'>Live for Influential and Innovative fashion!</p>
             </div>
             <div className="img">
 
