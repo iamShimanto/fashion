@@ -6,7 +6,15 @@ export default {
   ],
   theme: {
     extend: {
-      
+      colors:{
+        '000':'#000000',
+        '242323':'#242323',
+        'fefefe':'#FEFEFE',
+        
+      },
+    },
+    fontFamily:{
+      "poppins":["Poppins", "sans-serif"]
     },
     container:{
       center: true,
