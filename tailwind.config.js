@@ -18,7 +18,7 @@ export default {
     },
     container:{
       center: true,
-    }
+    },
   },
   plugins: [],
 }
