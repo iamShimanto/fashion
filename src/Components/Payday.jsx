@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Payday = () => {
   return (
     <>
-      <section className='bg-[#E3C743] rounded-[10px]'>
+      <section className='bg-[#E3C743] rounded-[10px] mt-[130px]'>
         <div className="container">
           <div className="row flex justify-between">
               <div className="img">

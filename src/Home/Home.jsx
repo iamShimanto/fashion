@@ -4,6 +4,8 @@ import Banner from '../Components/Banner'
 import Brands from '../Components/Brands'
 import NewArrivals from '../Components/NewArrivals'
 import Payday from '../Components/Payday'
+import YoungsFav from '../Components/YoungsFav'
+import Download from '../Components/Download'
 
 const Home = () => {
   return (
@@ -13,6 +15,8 @@ const Home = () => {
       <Brands/>
       <NewArrivals/>
       <Payday/>
+      <YoungsFav/>
+      <Download/>
     </>
   )
 }
