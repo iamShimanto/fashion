@@ -14,7 +14,8 @@ export default {
       },
     },
     fontFamily:{
-      "poppins":["Poppins", "sans-serif"]
+      "poppins":["Poppins", "sans-serif"],
+      "roboto":["Roboto", "sans-serif"]
     },
     container:{
       center: true,

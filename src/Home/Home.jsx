@@ -7,6 +7,7 @@ import Payday from '../Components/Payday'
 import YoungsFav from '../Components/YoungsFav'
 import Download from '../Components/Download'
 import Email from '../Components/Email'
+import Footer from '../Components/Footer'
 
 const Home = () => {
   return (
@@ -19,6 +20,7 @@ const Home = () => {
       <YoungsFav/>
       <Download/>
       <Email/>
+      <Footer/>
     </>
   )
 }
