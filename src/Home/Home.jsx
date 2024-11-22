@@ -6,6 +6,7 @@ import NewArrivals from '../Components/NewArrivals'
 import Payday from '../Components/Payday'
 import YoungsFav from '../Components/YoungsFav'
 import Download from '../Components/Download'
+import Email from '../Components/Email'
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <Payday/>
       <YoungsFav/>
       <Download/>
+      <Email/>
     </>
   )
 }
